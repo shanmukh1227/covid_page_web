@@ -1,0 +1,88 @@
+.top-bg-container{
+   border-color:#0967d219;
+   border-width:5px;
+   border-style:solid;
+}
+.top-card-container{
+    padding:13px;
+    margin:16px;
+    border-radius:12px;
+}
+.top-heading{
+    font-size:18px;
+    font-style:"roboto";
+    color:#323f4b;
+    font-weight:400;
+
+}
+.button{
+    background-color: blue;
+    border-radius:10px;
+    color:white;
+    width:138px;
+    height:36px;
+    font-style:"roboto";
+    font-size:9;
+    border-width: 0px;
+}
+.img-card:{
+   
+    width:138px;
+    height:96px;
+
+}
+.bg-container{
+    background-color:#0967d219 ;
+    margin:16px;
+    padding:16px;
+    border-radius: 10px;
+
+}
+.bg-container-image{
+    width:48px;
+    height:48px;
+    margin:9px;
+}
+.text-card-container{
+    padding:5px;
+}
+.bottom-card-heading{
+    font-style:'roboto';
+    font-size:16px;
+    color:#323f4b;
+    font-weight:400;
+}
+.bottom-card-paragraph{
+    font-size:12px;
+    font-style:"roboto";
+    color:#323f4b
+    font-weight:500;
+}
+.symptoms-heading{
+    font-style:"Roboto";
+    font-size:16px;
+    color:#323f4b;
+    margin:14px;
+
+}
+.symptoms-text{
+    font-size:14px;
+    font-weight:400;
+    font-style:"roboto";
+    color:white
+
+}
+.symptoms-cough{
+    background-color: #3ebd93;
+}
+.symptoms-fever{
+    background-color:#e668a7;
+
+}
+.symptoms-headache{
+    background-color: #a368fc;
+}
+.video-container{
+    background-color:#e12d3919;
+
+}
